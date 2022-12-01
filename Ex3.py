@@ -4,4 +4,4 @@ a = float(input('Digite um numero: '))
 b = float(input('Digite outro numero:'))
 
 soma = a + b
-print('A soma dos números {} e {} é: {}'.format(a,b,soma)) 
+print(f'A soma dos números {a} e {b} é: {soma}') 

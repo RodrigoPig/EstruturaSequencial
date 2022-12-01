@@ -6,4 +6,4 @@ horasTrabaladas = float(input('Informe o numero de horas trabalhadas por mês: '
 
 salario = valorPorHora * horasTrabaladas
 
-print('Seu salário é: {}'.format(salario))
+print(f'Seu salário é: {salario}')

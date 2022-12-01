@@ -7,4 +7,4 @@ n4 = float(input('Informe a nota da quarta prova: '))
 
 soma = (n1+n2+n3+n4)/4
 
-print('A media do Bimestre é: {}'.format(soma))
+print(f'A media do Bimestre é: {soma}')

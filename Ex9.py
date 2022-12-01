@@ -5,4 +5,4 @@ f = float(input('Informe a temperatura em Fahrenheit: '))
 
 c = 5 * ((f-32) / 9)
 
-print('São {:.2f} graus Celsius'.format(c))
+print(f'São {c:.2f} graus Celsius')

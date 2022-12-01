@@ -4,4 +4,4 @@ metros = float(input('Informe uma medida em metros: '))
 
 centimetros = metros * 100
 
-print('A medida {} metros equilave a {} centimetros'.format(metros,centimetros))
+print(f'A medida {metros} metros equilave a {centimetros} centimetros')

@@ -8,4 +8,4 @@ r = float(input('Informe o raio (em metros) da circunferência: '))
 raio = math.pow(r,2)
 
 area_circulo = pi * raio
-print('A area da circunferencia de raio {}m é: {}m²'.format(r,area_circulo))
+print(f'A area da circunferencia de raio {r}m é: {area_circulo}m²')
